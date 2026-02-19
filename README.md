@@ -1,16 +1,21 @@
-## Hi there 👋
+### Sebastian Becerra
 
-<!--
-**sbc1-code/sbc1-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital analytics and business intelligence — building tracking infrastructure, data tools, and content systems.
 
-Here are some ideas to get you started:
+**Currently at** [SeeScan](https://seescan.com) · Santa Barbara, CA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with:** GA4/GTM · Python · JavaScript · SQL · AI tooling
+
+**Background:** 6+ years in analytics, marketing tech, and cross-border business (EN/ES). BBA from UTEP.
+
+---
+
+**Featured work:**
+
+- [`multivariate-marketing-campaign-analyzer`](https://github.com/sbc1-code/multivariate-marketing-campaign-analyzer) — Compare campaign variant performance
+- [`sbb-dash`](https://github.com/sbc1-code/sbb-dash) — Business analysis dashboard with revenue projections
+- [`omemory`](https://github.com/sbc1-code/omemory) — Customized AI memory system for builders and consultants
+
+---
+
+[LinkedIn](https://linkedin.com/in/sbecerra1) · [digito.technology](https://digito.technology)
