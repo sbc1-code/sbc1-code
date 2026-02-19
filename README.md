@@ -1,6 +1,6 @@
 ### Sebastian Becerra
 
-I build data tools and business systems. Everything here is live and usable.
+Business operations and data systems. I build tools that turn information into decisions.
 
 ---
 
