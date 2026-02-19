@@ -18,4 +18,4 @@ Digital analytics and business intelligence. I build tracking infrastructure, da
 
 ---
 
-[LinkedIn](https://linkedin.com/in/sbecerra1) · [digito.technology](https://digito.technology)
+[LinkedIn](https://linkedin.com/in/sbecerra1)
