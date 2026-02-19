@@ -1,12 +1,12 @@
 ### Sebastian Becerra
 
-Digital analytics and business intelligence. I build tracking infrastructure, data tools, and content systems.
+Business operations and data systems. I build tools that turn information into decisions.
 
 **Currently at** [SeeScan](https://seescan.com) · Santa Barbara, CA
 
-**Working with:** GA4/GTM · Python · JavaScript · SQL · AI/LLM tooling
+**Working with:** Python · SQL · JavaScript · GA4/GTM · AI/LLM tooling
 
-**Background:** 7 years in analytics, marketing tech, and cross-border business (EN/ES). BBA from UTEP.
+**Background:** 7 years in analytics, operations, and cross-border business (EN/ES). BBA from UTEP.
 
 ---
 
