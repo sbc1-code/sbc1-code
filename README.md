@@ -12,9 +12,8 @@ Digital analytics and business intelligence. I build tracking infrastructure, da
 
 **Selected work:**
 
-- [`geo-portfolio`](https://sbc1-code.github.io/geo-portfolio/) — GEO strategy and digital marketing portfolio
-- [`multivariate-marketing-campaign-analyzer`](https://github.com/sbc1-code/multivariate-marketing-campaign-analyzer) — Multi-variant campaign performance analysis tool
-- [`sbb-dash`](https://github.com/sbc1-code/sbb-dash) — Business analysis dashboard with revenue projections and forecasting
+- [`sbb-dash`](https://sbc1-code.github.io/sbb-dash/) — 7-day demand forecast for Santa Barbara businesses
+- [`multivariate-marketing-campaign-analyzer`](https://sbc1-code.github.io/multivariate-marketing-campaign-analyzer/) — Multi-variant campaign performance analysis tool
 
 ---
 
