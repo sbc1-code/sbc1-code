@@ -14,7 +14,7 @@ Santa Barbara, CA · [LinkedIn](https://linkedin.com/in/sbecerra1) · [Portfolio
 
 **[$O Compound Growth Visualizer](https://sbc1-code.github.io/compound-growth-visualizer/)** | Interactive DRIP investment simulator for $O with live price data. Model dividend reinvestment scenarios with milestone tracking and year-by-year projections. Auto-updated via GitHub Actions.
 
-**[SB Business Forecast](https://sbc1-code.github.io/sbb-dash/)** | Automated 7-day demand prediction engine. Weather data, event scraping, staffing recommendations. Fully automated via GitHub Actions, zero maintenance.
+**[SB Business Forecast](https://sbc1-code.github.io/sbb-dash/)** | Automated 7-day demand prediction engine for Santa Barbara SMBs. Weather data, event scraping, staffing recommendations. Fully automated via GitHub Actions, zero maintenance.
 
 **[Campaign Performance Analyzer](https://sbc1-code.github.io/multivariate-marketing-campaign-analyzer/)** | Multi-variant campaign analysis tool. Upload CSV, compare CTR/CPC across variants, visualize performance. Client-side, no backend.
 
