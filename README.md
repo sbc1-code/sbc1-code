@@ -2,7 +2,7 @@
 
 **Marketing Operations & Analytics | Systems · Automation · AI | Bilingual EN/ES**
 
-I build the systems layer — data pipelines, automation workflows, and analytics infrastructure that help teams make better decisions. 6+ years implementing production systems across multi-brand organizations.
+I build the systems layer: data pipelines, automation workflows, and analytics infrastructure that help teams make better decisions. 6+ years implementing production systems across multi-brand organizations.
 
 Santa Barbara, CA · [LinkedIn](https://linkedin.com/in/sbecerra1) · [Portfolio](https://sbc1-code.github.io/portfolio/)
 
@@ -10,11 +10,11 @@ Santa Barbara, CA · [LinkedIn](https://linkedin.com/in/sbecerra1) · [Portfolio
 
 ### Live Projects
 
-**[Compound Growth Visualizer](https://sbc1-code.github.io/compound-growth-visualizer/)** — Interactive DRIP investment simulator. Model dividend reinvestment scenarios with adjustable parameters, milestone tracking, and year-by-year projections. Chart.js, vanilla JS.
+**[Compound Growth Visualizer](https://sbc1-code.github.io/compound-growth-visualizer/)** | Interactive DRIP investment simulator. Model dividend reinvestment scenarios with adjustable parameters, milestone tracking, and year-by-year projections. Chart.js, vanilla JS.
 
-**[SB Business Forecast](https://sbc1-code.github.io/sbb-dash/)** — Automated 7-day demand prediction engine. Weather data, event scraping, staffing recommendations. Fully automated via GitHub Actions, zero maintenance. Python + JS, $0/mo.
+**[SB Business Forecast](https://sbc1-code.github.io/sbb-dash/)** | Automated 7-day demand prediction engine. Weather data, event scraping, staffing recommendations. Fully automated via GitHub Actions, zero maintenance. Python + JS, $0/mo.
 
-**[Campaign Performance Analyzer](https://sbc1-code.github.io/multivariate-marketing-campaign-analyzer/)** — Multi-variant campaign analysis tool. Upload CSV, compare CTR/CPC across variants, visualize performance. Client-side, no backend.
+**[Campaign Performance Analyzer](https://sbc1-code.github.io/multivariate-marketing-campaign-analyzer/)** | Multi-variant campaign analysis tool. Upload CSV, compare CTR/CPC across variants, visualize performance. Client-side, no backend.
 
 ---
 
