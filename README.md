@@ -10,7 +10,7 @@ Santa Barbara, CA · [LinkedIn](https://linkedin.com/in/sbecerra1) · [Portfolio
 
 ### Live Projects
 
-**[Deal Stress Tester](https://sbc1-code.github.io/deal-stress-tester/)** | Real estate investment analysis tool. Plug in your numbers, stress-test across rate, vacancy, rent, and expense scenarios. See where a deal breaks before you buy. Built from lessons on a real 4-plex.
+**[Deal Stress Tester](https://sbc1-code.github.io/deal-stress-tester/)** | Real estate investment analysis tool. Plug in your numbers, stress-test across rate, vacancy, rent, and expense scenarios. See where a deal breaks before you buy. Built from real experience investing in multifamily properties.
 
 **[Compound Growth Visualizer](https://sbc1-code.github.io/compound-growth-visualizer/)** | Interactive DRIP investment simulator with live price data. Model dividend reinvestment scenarios with milestone tracking and year-by-year projections. Auto-updated via GitHub Actions.
 
