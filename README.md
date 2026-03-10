@@ -2,7 +2,7 @@
 
 **Operations, analytics, and AI tooling.** 
 
-Santa Barbara, CA · Bilingual EN/ES · 6+ years building marketing & business infrastructure
+Santa Barbara, CA · Bilingual EN/ES · 10+ years building marketing & business infrastructure starting from operations
 
 ---
 
