@@ -26,9 +26,9 @@ Santa Barbara, CA · [LinkedIn](https://linkedin.com/in/sbecerra1) · [Portfolio
 |---------|-------------|-------|
 | Multi-Property Analytics Infrastructure | GA4/GTM across 3 business units, 250K+ annual sessions, BigQuery exports | GA4, GTM, BigQuery, Python |
 | AI Pricing Configurator | LLM-powered product pricing tool, shipped to production | Python, LLM APIs |
-| [Investor Pitch Deck Generator](https://github.com/sbc1-code/investor-pitch-generator) | Automated 13-slide institutional pitch deck with configurable branding and data-driven slides | Python, python-pptx |
-| [GA4 Analytics Report Generator](https://github.com/sbc1-code/ga4-analytics-report) | Pulls GA4 data via API, outputs styled HTML reports with period-over-period comparisons | Python, GA4 API |
-| [Invoice Generator](https://github.com/sbc1-code/invoice-generator) | Bilingual EN/ES HTML invoice generator for cross-border consulting | Python, HTML/CSS |
+| [Investor Pitch Deck Generator](https://sbc1-code.github.io/investor-pitch-generator/) | Automated 13-slide institutional pitch deck with configurable branding and data-driven slides ([preview](https://sbc1-code.github.io/investor-pitch-generator/)) | Python, python-pptx |
+| [GA4 Analytics Report Generator](https://sbc1-code.github.io/ga4-analytics-report/) | Pulls GA4 data via API, outputs styled HTML reports with period-over-period comparisons ([sample](https://sbc1-code.github.io/ga4-analytics-report/)) | Python, GA4 API |
+| [Invoice Generator](https://sbc1-code.github.io/invoice-generator/) | Bilingual EN/ES invoice generator for cross-border consulting ([demo](https://sbc1-code.github.io/invoice-generator/)) | Python, HTML/CSS |
 | Automated Brand Monitoring Pipeline | Trademark alert system + programmatic QA sweeps across web properties | Python, APIs, CI/CD |
 
 ---
