@@ -1,8 +1,8 @@
 ## Sebastian Becerra
 
-**Operations, analytics, and AI tooling.** I build systems that turn messy information into decisions — and I ship them.
+**Operations, analytics, and AI tooling.** 
 
-Santa Barbara, CA · Bilingual EN/ES · 6+ years building data infrastructure
+Santa Barbara, CA · Bilingual EN/ES · 6+ years building marketing & business infrastructure
 
 ---
 
