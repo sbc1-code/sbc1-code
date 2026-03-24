@@ -8,39 +8,32 @@ San Diego & Santa Barbara, CA | [LinkedIn](https://linkedin.com/in/sbecerra1) | 
 
 ---
 
-### Live Projects
+### Data Dashboards
 
-**[Price Configurator](https://sbc1-code.github.io/price-configurator/)** | Interactive product pricing tool with rule-based validation, real-time cost calculation, and quote generation. Built to replace manual quoting workflows.
+**[Healthcare Access Gap Finder](https://healthcare-access-gap-jbn83kds39tgjjsxgdmeg4.streamlit.app/)** | Scores 3,143 US counties on health need vs. care infrastructure. HRSA shortage areas, CDC PLACES, FQHC locations, Census ACS. Python ETL, DuckDB scoring, Streamlit dashboard. [Repo](https://github.com/sbc1-code/healthcare-access-gap)
 
-**[Analytics HQ](https://sbc1-code.github.io/analytics-hq/)** | Multi-site GA4 analytics dashboard. Fetches data across web properties, computes week-over-week deltas, surfaces behavior signals, and renders automated HTML reports.
+**[Community Financial Health Index](https://financial-health-index-6padrkm7fwnrtfrgrczqtr.streamlit.app/)** | Maps banking deserts and financial exclusion across 3,219 counties. FDIC branches, CFPB complaints, Census demographics. Python ETL, DuckDB scoring, Streamlit dashboard. [Repo](https://github.com/sbc1-code/financial-health-index)
 
-**[Brand Monitor](https://sbc1-code.github.io/brand-monitor/)** | Automated brand mention pipeline. Scans news, forums, and trade publications, deduplicates, scores by authority and sentiment, and delivers reports on schedule.
+**[VerdeAzul](https://verdeazul-rrjjajrduxnjm7kh63a7vu.streamlit.app/)** | Community longevity index scoring 2,820 counties on healthcare access, food availability, and economic equity. CDC, Census, EPA data. Python, SQL, Streamlit. [Repo](https://github.com/sbc1-code/verdeazul)
 
-**[Deal Stress Tester](https://sbc1-code.github.io/deal-stress-tester/)** | Real estate investment analysis tool. Stress-test across rate, vacancy, rent, and expense scenarios. See where a deal breaks before you buy.
+### Tools and Automation
 
-**[$O Compound Growth Visualizer](https://sbc1-code.github.io/compound-growth-visualizer/)** | Interactive DRIP investment simulator for $O with live price data. Model dividend reinvestment scenarios with milestone tracking and year-by-year projections. Auto-updated via GitHub Actions.
+**[Price Configurator](https://sbc1-code.github.io/price-configurator/)** | Interactive product pricing with rule-based validation and quote generation.
 
-**[Invoice Generator](https://sbc1-code.github.io/invoice-generator/)** | Professional invoice generator with EN/ES language toggle. English by default, switch to Spanish with one click. Light/dark mode.
+**[Analytics HQ](https://sbc1-code.github.io/analytics-hq/)** | Multi-site GA4 dashboard with automated HTML reports.
 
-**[SB Business Forecast](https://sbc1-code.github.io/sbb-dash/)** | Automated 7-day demand prediction engine for Santa Barbara SMBs. Weather data, event scraping, staffing recommendations. Fully automated via GitHub Actions, zero maintenance.
+**[Brand Monitor](https://sbc1-code.github.io/brand-monitor/)** | Automated brand mention pipeline with authority scoring.
+
+**[Deal Stress Tester](https://sbc1-code.github.io/deal-stress-tester/)** | Real estate investment stress testing across rate, vacancy, and expense scenarios.
+
+**[Invoice Generator](https://sbc1-code.github.io/invoice-generator/)** | Professional invoices with EN/ES toggle.
+
+**[SB Business Forecast](https://sbc1-code.github.io/sbb-dash/)** | 7-day demand prediction for SMBs via GitHub Actions.
 
 ---
-
-### Selected Work
-
-| Project | What It Does | Stack |
-|---------|-------------|-------|
-| [Price Configurator](https://sbc1-code.github.io/price-configurator/) | Rule-based product pricing with validation, cart, and PDF quote generation | JavaScript, HTML/CSS |
-| [Analytics HQ](https://sbc1-code.github.io/analytics-hq/) | Multi-site GA4 pipeline: fetch, analyze, alert, and report across 3+ web properties | Python, GA4 API, CI/CD |
-| [Brand Monitor](https://sbc1-code.github.io/brand-monitor/) | Automated brand mention scanning, scoring, dedup, and reporting pipeline | Python, APIs, CI/CD |
-| [Deal Stress Tester](https://sbc1-code.github.io/deal-stress-tester/) | Real estate deal analysis with multi-variable stress testing | JavaScript, HTML/CSS |
-| [Investor Pitch Deck Generator](https://sbc1-code.github.io/investor-pitch-generator/) | Automated 13-slide institutional pitch deck with configurable branding ([preview](https://sbc1-code.github.io/investor-pitch-generator/)) | Python, python-pptx |
-| [GA4 Analytics Report](https://sbc1-code.github.io/ga4-analytics-report/) | Styled HTML analytics reports with period-over-period comparisons ([sample](https://sbc1-code.github.io/ga4-analytics-report/)) | Python, GA4 API |
-| [Invoice Generator](https://sbc1-code.github.io/invoice-generator/) | Professional invoices with EN/ES language toggle ([demo](https://sbc1-code.github.io/invoice-generator/)) | Python, HTML/CSS |
-| [Compound Growth Visualizer](https://sbc1-code.github.io/compound-growth-visualizer/) | DRIP simulator with live $O price data via GitHub Actions | JavaScript, Chart.js |
 
 ---
 
 ### Stack
 
-`Python` · `SQL` · `JavaScript` · `GA4 / GTM / BigQuery` · `AI / LLM tooling` · `React` · `CI/CD` · `HTML / CSS`
+`Python` · `SQL / DuckDB` · `Streamlit` · `JavaScript` · `GA4 / GTM / BigQuery` · `AI / LLM tooling` · `CI/CD` · `HTML / CSS`
