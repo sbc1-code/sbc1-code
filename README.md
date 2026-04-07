@@ -1,8 +1,8 @@
 ## Sebastian Becerra
 
-**Marketing Operations & Analytics + More | Systems, Automation, AI | Bilingual EN/ES**
+**Customer Success, Marketing Operations, Analytics & More | Systems, Automation, AI | Bilingual EN/ES**
 
-I enjoy building the systems layer that help marketing & biz dev teams make better decisions: data pipelines, automation workflows, and analytics infrastructure. 7+ years implementing production systems across multi-brand organizations.
+I enjoy building the systems layer that help customers succeed and marketing & biz dev teams make better decisions: data pipelines, automation workflows, and analytics infrastructure. 7+ years implementing production systems across multi-brand organizations.
 
 San Diego & Santa Barbara, CA | [LinkedIn](https://linkedin.com/in/sbecerra1) | [Portfolio](https://sbc1-code.github.io/portfolio/)
 
