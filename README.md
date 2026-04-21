@@ -2,11 +2,15 @@
 
 **Marketing/Business Analytics & Operations | Data, Systems, Automation, Product | Bilingual EN/ES**
 
-I enjoy building the systems layer that help customers succeed and marketing & biz dev teams make better decisions: data pipelines, automation workflows, and analytics infrastructure. 6+ years implementing production systems across multi-brand organizations. Occasionally I dabble in side projects. 
+I enjoy building the systems layer that help customers succeed and marketing & biz dev teams make better decisions: data pipelines, automation workflows, and analytics infrastructure. 6+ years implementing production systems across multi-brand organizations. Occasionally I dabble in side projects.
 
 San Diego & Santa Barbara, CA | [LinkedIn](https://linkedin.com/in/sbecerra1) | [Portfolio](https://sbc1-code.github.io/portfolio/)
 
 ---
+
+### Live Production
+
+**[BorderPulse](https://borderpulse.com)** | Real-time US-Mexico border wait times with peso exchange rate. 43 per-crossing SEO pages, 15-min auto-refresh via GitHub Actions, PWA, privacy-first analytics. Vite + React + Tailwind + shadcn/ui. [Repo](https://github.com/sbc1-code/borderpulse)
 
 ### Data Dashboards
 
@@ -29,6 +33,8 @@ San Diego & Santa Barbara, CA | [LinkedIn](https://linkedin.com/in/sbecerra1) | 
 **[Invoice Generator](https://sbc1-code.github.io/invoice-generator/)** | Professional invoices with EN/ES toggle.
 
 **[SB Business Forecast](https://sbc1-code.github.io/sbb-dash/)** | 7-day demand prediction for SMBs via GitHub Actions.
+
+**[GA4 Analytics Report](https://sbc1-code.github.io/ga4-analytics-report/)** | GA4 data via API, styled HTML digests with period-over-period deltas. Python CLI, OAuth 2.0 Desktop flow, email-ready output.
 
 ---
 
