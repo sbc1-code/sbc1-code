@@ -1,6 +1,6 @@
 ## Sebastian Becerra
 
-**Marketing/Business Analytics & Operations | Systems, Automation, Product | Bilingual EN/ES**
+**Marketing/Business Analytics & Operations | Data, Systems, Automation, Product | Bilingual EN/ES**
 
 I enjoy building the systems layer that help customers succeed and marketing & biz dev teams make better decisions: data pipelines, automation workflows, and analytics infrastructure. 6+ years implementing production systems across multi-brand organizations. Occasionally I dabble in side projects. 
 
