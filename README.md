@@ -2,7 +2,7 @@
 
 **Marketing/Business Analytics & Operations | Systems, Automation, Product | Bilingual EN/ES**
 
-I enjoy building the systems layer that help customers succeed and marketing & biz dev teams make better decisions: data pipelines, automation workflows, and analytics infrastructure. 7+ years implementing production systems across multi-brand organizations.
+I enjoy building the systems layer that help customers succeed and marketing & biz dev teams make better decisions: data pipelines, automation workflows, and analytics infrastructure. 6+ years implementing production systems across multi-brand organizations. Occasionally I dabble in side projects. 
 
 San Diego & Santa Barbara, CA | [LinkedIn](https://linkedin.com/in/sbecerra1) | [Portfolio](https://sbc1-code.github.io/portfolio/)
 
