@@ -1,10 +1,12 @@
 ## Sebastian Becerra
 
-**Marketing/Business Analytics & Operations | Data, Systems, Automation, Product | Bilingual EN/ES**
+**Marketing & Business Analytics Infrastructure | Tracking, Automation, Reporting | Bilingual EN/ES**
 
-I enjoy building the systems layer that help business leadership and marketing teams make better decisions: data pipelines, automation workflows, and analytics infrastructure. 6+ years implementing production systems across multi-brand organizations. Occasionally I dabble in side projects.
+I build marketing and business analytics infrastructure: the tracking, automation, and reporting systems that turn raw data into decisions leadership can defend. Six years at SeeScan running analytics and marketing operations across three brand properties, 250K+ annual sessions at 92% organic. On the side, I build tools for problems that keep showing up.
 
-San Diego & Santa Barbara, CA | [LinkedIn](https://linkedin.com/in/sbecerra1) | [Portfolio](https://sbc1-code.github.io/portfolio/)
+Open to Senior Marketing Analyst, Business Analyst, and Implementation Specialist roles, remote or in Santa Barbara/San Diego.
+
+Santa Barbara & San Diego, CA | [LinkedIn](https://linkedin.com/in/sbecerra1) | [Portfolio](https://sbc1-code.github.io/portfolio/)
 
 ---
 
