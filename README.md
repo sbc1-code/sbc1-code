@@ -12,7 +12,7 @@ Santa Barbara & San Diego, CA | [LinkedIn](https://linkedin.com/in/sbecerra1) | 
 
 ### Live Production
 
-**[BorderPulse](https://borderpulse.com)** | Real-time US-Mexico border wait times with peso exchange rate. 43 per-crossing SEO pages, 15-min auto-refresh via GitHub Actions, PWA, privacy-first analytics. Vite + React + Tailwind + shadcn/ui. [Repo](https://github.com/sbc1-code/borderpulse)
+**[BorderPulse](https://borderpulse.com)** | Real-time US-Mexico border wait times with peso exchange rate. 43 per-crossing SEO pages, auto-refreshing CBP data via GitHub Actions, PWA, privacy-first analytics. Vite + React + Tailwind + shadcn/ui. [Repo](https://github.com/sbc1-code/borderpulse)
 
 ### Lead Analytical Tools
 
