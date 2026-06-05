@@ -1,6 +1,6 @@
 # Sebastian Becerra
 
-**GTM Operations & Analytics | Marketing & Communications Systems · RevOps · Automation · AI | Bilingual EN/ES**
+**Marketing Operations & Analytics | Building GTM Systems · RevOps · Automation · AI | Bilingual EN/ES**
 
 I build GTM systems, inbound operations, CRM-style prospecting workflows, tracking, automation, and reporting that turn operational friction into decisions leadership can defend. Current focus: IC GTM operations, business operations, RevOps, and analytics roles.
 
