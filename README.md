@@ -6,7 +6,7 @@ I build GTM systems, inbound operations, CRM-style prospecting workflows, tracki
 
 My background is in marketing and communications operations, but my strongest work sits at the intersection of analytics, systems, automation, and business operations.
 
-Current focus: GTM Operations, Revenue Operations, Business Operations, and Analytics roles.
+Open to remote roles in Marketing Operations, GTM Operations, Revenue Operations, and Marketing Automation (IC / Senior IC). Analytics is how I instrument the ops, not the title I'm chasing.
 
 [digito.technology](https://digito.technology) | [Portfolio](https://sbc1-code.github.io/portfolio/) | [Resume PDF](./SB_Master_Resume_GTM_Ops_Analytics_2026.pdf) | [LinkedIn](https://linkedin.com/in/sbecerra1)
 
