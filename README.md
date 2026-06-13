@@ -1,12 +1,12 @@
 # Sebastian Becerra
 
-**Marketing Operations & Analytics | Building GTM Systems, Revenue Operations, Automation & AI | Bilingual EN/ES**
+**Marketing Operations & Analytics | GA4, Google Tag Manager & tracking architecture · Technical SEO · Python · AI automation | Bilingual EN/ES**
 
-I build GTM systems, inbound operations, CRM-style prospecting workflows, tracking, automation, and reporting that help teams understand performance, reduce manual work, and improve execution.
+I run the measurement and operations layer behind marketing: GA4 and Google Tag Manager tracking architecture, technical SEO, automated reporting, and the Python and AI automation that keep marketing data reliable and cut the manual work.
 
-My background is in marketing and communications operations, but my strongest work sits at the intersection of analytics, systems, automation, and business operations.
+My background is six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites. I am an operator who builds his own tools. The projects below are the proof.
 
-Open to remote roles in Marketing Operations, GTM Operations, Revenue Operations, and Marketing Automation (IC / Senior IC). Analytics is how I instrument the ops, not the title I'm chasing.
+Open to remote roles in Marketing Operations, Analytics, and Marketing Automation (IC / Senior IC).
 
 [digito.technology](https://digito.technology) | [Portfolio](https://sbc1-code.github.io/portfolio/) | [Resume PDF](./SB_Master_Resume_GTM_Ops_Analytics_2026.pdf) | [LinkedIn](https://linkedin.com/in/sbecerra1)
 
@@ -18,13 +18,13 @@ Open to remote roles in Marketing Operations, GTM Operations, Revenue Operations
 
 Multi-site GA4 reporting pipeline with anomaly detection, automated reporting, and cross-property performance visibility.
 
-Built around the same measurement and analytics infrastructure I support at SeeScan across 250K+ annual sessions and 92% organic traffic.
+Built around the same measurement and analytics infrastructure I run at SeeScan across 250K+ annual sessions and 92% organic traffic.
 
 [Repo](https://github.com/sbc1-code/analytics-hq)
 
-### Los Bravos CRM & Lead Intelligence System
+### Los Bravos Lead Intelligence System
 
-Built a GTM and revenue intelligence system for a cross-border industrial real estate developer.
+Built a full go-to-market and lead intelligence system, solo, for a cross-border industrial real estate developer.
 
 - 1,121 qualified leads (100% enriched)
 - 6,218-record prospect database (124% of target)
@@ -34,7 +34,7 @@ Built a GTM and revenue intelligence system for a cross-border industrial real e
 - AI-assisted research workflows
 - GA4 reporting and conversion tracking
 
-Delivered 104% of contracted targets.
+Delivered 104% of contracted targets. Client prospect data is confidential; a sanitized sample packet is linked from the portfolio.
 
 ### [BorderPulse](https://borderpulse.com)
 
@@ -52,4 +52,4 @@ Real-time US-Mexico border intelligence platform featuring:
 
 ## Stack
 
-`GTM Operations` · `Revenue Operations` · `Marketing Operations` · `GA4` · `Google Tag Manager` · `Looker Studio` · `Python` · `SQL` · `DuckDB` · `REST APIs` · `Streamlit` · `GitHub Actions` · `WordPress` · `AI/LLM Workflows` · `English/Spanish`
+`Marketing Operations` · `Analytics` · `GA4` · `Google Tag Manager` · `Technical SEO` · `Looker Studio` · `Python` · `SQL` · `DuckDB` · `AI/LLM Workflows` · `REST APIs` · `GitHub Actions` · `WordPress` · `English/Spanish`
