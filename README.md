@@ -1,6 +1,6 @@
 # Sebastian Becerra
 
-**Marketing Operations & Analytics | GA4, Google Tag Manager & tracking architecture · Technical SEO · Python · AI automation | Bilingual EN/ES**
+**Digital Marketing Operations & Analytics | Building the systems behind B2B growth | GA4 · GTM · Python · AI Automation | Bilingual EN/ES**
 
 I run the measurement and operations layer behind marketing: GA4 and Google Tag Manager tracking architecture, technical SEO, automated reporting, and the Python and AI automation that keep marketing data reliable and cut the manual work.
 
