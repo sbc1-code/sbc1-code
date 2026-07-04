@@ -4,7 +4,7 @@
 
 I run the measurement and operations layer behind marketing: GA4 and Google Tag Manager tracking architecture, technical SEO, automated reporting, and the Python and AI automation that keep marketing data reliable and cut the manual work.
 
-My background is six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites. I am an operator who builds his own tools. I am pointing that work at financial services and fintech, where I already operate on my own account: I co-founded a family real estate investment entity and build my own investing and deal-analysis tools. The projects below are the proof.
+My background is six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites. I am an operator who builds his own tools. I am aiming that work at marketing teams in financial services and fintech, a world I already operate in on my own account: I co-founded a family real estate investment entity and build my own investing and deal-analysis tools. The projects below are the proof.
 
 Open to remote roles in Marketing Operations, Analytics, and Marketing Automation (IC / Senior IC), focused on financial services, fintech, and adjacent sectors.
 
@@ -16,7 +16,7 @@ Open to remote roles in Marketing Operations, Analytics, and Marketing Automatio
 
 ### [Analytics HQ](https://sbc1-code.github.io/analytics-hq/)
 
-Multi-site GA4 reporting pipeline with anomaly detection, automated reporting, and cross-property performance visibility.
+Multi-site GA4 reporting pipeline with anomaly detection and cross-property performance visibility: the reports leadership uses for budget and ROI decisions.
 
 Built around the same measurement and analytics infrastructure I run at SeeScan across 250K+ annual sessions and 92% organic traffic.
 
@@ -24,7 +24,7 @@ Built around the same measurement and analytics infrastructure I run at SeeScan 
 
 ### Los Bravos Lead Intelligence System
 
-Built a full go-to-market and lead intelligence system, solo, for a cross-border industrial real estate developer.
+Built a full go-to-market and lead intelligence system, solo, for a cross-border industrial real estate development firm: pipeline infrastructure for high-value, long-cycle deals.
 
 - 1,121 qualified leads (100% enriched)
 - 6,218-record prospect database (124% of target)
@@ -38,7 +38,7 @@ Delivered 104% of contracted targets. Client prospect data is confidential; a sa
 
 ### [BorderPulse](https://borderpulse.com)
 
-Real-time US-Mexico border intelligence platform featuring:
+Live cross-border economic data product: real-time border wait times with peso exchange rate context. Features:
 
 - Bilingual SEO content
 - Automated CBP data updates
@@ -63,6 +63,16 @@ Real estate deal calculator that leads with where the deal breaks, not the best 
 Interactive compound growth and dividend reinvestment (DRIP) simulator: recurring contributions, reinvested distributions, milestone tracking, and year-by-year projections over a 1 to 40 year horizon. All in the browser, all real time.
 
 [Repo](https://github.com/sbc1-code/compound-growth-visualizer)
+
+### [Community Financial Health Index](https://github.com/sbc1-code/financial-health-index)
+
+Maps where Americans lack access to fair financial services: FDIC bank branch data, CFPB consumer complaints, Census demographics, and unbanked survey results combined into county-level financial access and economic distress scores across 3,219 US counties. Identifies banking deserts. Python + DuckDB + Streamlit.
+
+### [Investor Pitch Deck Generator](https://sbc1-code.github.io/investor-pitch-generator/)
+
+Python tool that generates institutional-format investor pitch decks with configurable branding and data-driven slides. The linked page previews a sample deck for a fictional residential fund.
+
+[Repo](https://github.com/sbc1-code/investor-pitch-generator)
 
 ---
 
