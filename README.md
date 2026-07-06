@@ -4,7 +4,7 @@
 
 I run the measurement and operations layer behind marketing: GA4 and Google Tag Manager tracking architecture, technical SEO, automated reporting, and the Python and AI automation that keep marketing data reliable and cut the manual work.
 
-My background is six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites. I am an operator who builds his own tools. I am aiming that work at marketing teams in financial services and fintech, a world I already operate in on my own account: I co-founded a family real estate investment entity and build my own investing and deal-analysis tools. The projects below are the proof.
+My background is six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites. I am an operator who builds his own tools. I am aiming that work at marketing teams in financial services and fintech, a world I already operate in on my own account: I have co-founded real estate investment ventures and build my own investing and deal-analysis tools. The projects below are the proof.
 
 Open to remote roles in Marketing Operations, Analytics, and Marketing Automation (IC / Senior IC), focused on financial services, fintech, and adjacent sectors.
 
