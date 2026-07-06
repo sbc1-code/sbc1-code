@@ -64,9 +64,11 @@ Interactive compound growth and dividend reinvestment (DRIP) simulator: recurrin
 
 [Repo](https://github.com/sbc1-code/compound-growth-visualizer)
 
-### [Community Financial Health Index](https://github.com/sbc1-code/financial-health-index)
+### [Community Financial Health Index](https://financial-health-index.streamlit.app/)
 
-Maps where Americans lack access to fair financial services: FDIC bank branch data, CFPB consumer complaints, Census demographics, and unbanked survey results combined into county-level financial access and economic distress scores across 3,219 US counties. Identifies banking deserts. Python + DuckDB + Streamlit.
+Maps where Americans lack access to fair financial services: FDIC bank branch data, CFPB consumer complaints, Census demographics, and unbanked survey results combined into county-level financial access and economic distress scores across 3,219 US counties. Identifies banking deserts. Python + DuckDB + Streamlit. (Free-tier hosting: first visit may take a moment to wake the app.)
+
+[Repo](https://github.com/sbc1-code/financial-health-index)
 
 ### [Investor Pitch Deck Generator](https://sbc1-code.github.io/investor-pitch-generator/)
 
