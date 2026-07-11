@@ -34,7 +34,7 @@ Built a full go-to-market and lead intelligence system, solo, for a cross-border
 - AI-assisted research workflows
 - GA4 reporting and conversion tracking
 
-Delivered 104% of contracted targets. Client prospect data is confidential; a sanitized sample packet is linked from the portfolio.
+Delivered 104% of contracted targets, on an engagement I proposed, priced, and closed myself. Client prospect data is confidential; a sanitized sample packet is linked from the portfolio.
 
 ### [BorderPulse](https://borderpulse.com)
 
