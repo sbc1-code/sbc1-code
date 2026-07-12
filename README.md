@@ -2,9 +2,9 @@
 
 **Go-to-Market Systems & Operations | Building the systems behind growth | GA4 · Technical SEO · AI Automation | Bilingual EN/ES**
 
-I build go-to-market systems and run them end to end, from research and pipeline to the deal that closes at the end of it. The analytics are the instrument, not the identity: I came up through six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites, and that measurement layer is what makes the growth work actually move.
+I build go-to-market systems and run them end to end: sourcing, pipeline, automation, and the reporting that shows what is working. My background is six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites and 250K+ annual sessions at 92% organic.
 
-For Los Bravos I built the full GTM operating system solo, then proposed, priced, and closed the engagement myself. Through Digito, my independent studio, I build the tools when one does not exist or is not worth paying for. I operate in finance and real estate on my own account: co-founded real estate investment ventures and build my own investing and deal-analysis tools. The projects below are the proof.
+For Los Bravos, a cross-border industrial real estate developer with no systems in place, I built the full GTM operation solo, and I proposed, priced, and closed the engagement myself. Through Digito, my studio, I build the tools I need when one does not exist or is not worth paying for. I am aiming this at fintech and financial-services teams, a space I already operate in on my own account through real estate investment ventures and my own investing tools. The projects below are the proof.
 
 Open to remote go-to-market, growth, and marketing operations roles (IC / Senior IC), focused on financial services, fintech, and adjacent sectors.
 
