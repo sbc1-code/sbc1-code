@@ -1,12 +1,12 @@
 # Sebastian Becerra
 
-**Marketing Operations & Analytics | Building the systems behind growth | GA4 · GTM · AI Automation | Bilingual EN/ES**
+**Go-to-Market Systems & Operations | From research and pipeline to close | GA4 · GTM · AI Automation | Bilingual EN/ES**
 
-I run the measurement and operations layer behind marketing: GA4 and Google Tag Manager tracking architecture, technical SEO, automated reporting, and the Python and AI automation that keep marketing data reliable and cut the manual work.
+I build go-to-market systems and run them end to end, from research and pipeline to the deal that closes at the end of it. The analytics are the instrument, not the identity: I came up through six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites, and that measurement layer is what makes the growth work actually move.
 
-My background is six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites. I am an operator who builds his own tools. I am aiming that work at marketing teams in financial services and fintech, a world I already operate in on my own account: I have co-founded real estate investment ventures and build my own investing and deal-analysis tools. The projects below are the proof.
+For Los Bravos I built the full GTM operating system solo, then proposed, priced, and closed the engagement myself. Through Digito, my independent studio, I build the tools when one does not exist or is not worth paying for. I operate in finance and real estate on my own account: co-founded real estate investment ventures and build my own investing and deal-analysis tools. The projects below are the proof.
 
-Open to remote roles in Marketing Operations, Analytics, and Marketing Automation (IC / Senior IC), focused on financial services, fintech, and adjacent sectors.
+Open to remote go-to-market, growth, and marketing operations roles (IC / Senior IC), focused on financial services, fintech, and adjacent sectors.
 
 [digito.technology](https://digito.technology) | [Portfolio](https://sbc1-code.github.io/portfolio/) | [Resume PDF](./SB_Master_Resume_GTM_Ops_Analytics_2026.pdf) | [LinkedIn](https://linkedin.com/in/sbecerra1)
 
