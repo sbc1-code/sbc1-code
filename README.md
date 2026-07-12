@@ -1,6 +1,6 @@
 # Sebastian Becerra
 
-**Go-to-Market Systems & Operations | From research and pipeline to close | GA4 · GTM · AI Automation | Bilingual EN/ES**
+**Go-to-Market Systems & Operations | Building the systems behind growth | GA4 · Technical SEO · AI Automation | Bilingual EN/ES**
 
 I build go-to-market systems and run them end to end, from research and pipeline to the deal that closes at the end of it. The analytics are the instrument, not the identity: I came up through six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites, and that measurement layer is what makes the growth work actually move.
 
