@@ -1,8 +1,8 @@
 # Sebastian Becerra
 
-**GTM Engineer & Marketing Operations | Building the systems behind growth | GA4 · Technical SEO · AI Automation | Bilingual EN/ES**
+**Marketing Operations & Analytics · GTM Engineering | Building the systems behind growth | GA4 · Technical SEO · AI Automation | Bilingual EN/ES**
 
-I'm a GTM engineer. I build the go-to-market systems companies grow on and run them end to end: sourcing, pipeline, automation, and the reporting that shows what is working. My background is six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites and 250K+ annual sessions at 92% organic.
+My focus is GTM engineering: I build the go-to-market systems companies grow on and run them end to end: sourcing, pipeline, automation, and the reporting that shows what is working. My background is six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites and 250K+ annual sessions at 92% organic.
 
 For Los Bravos, a cross-border industrial real estate developer with no systems in place, I built the full GTM operation solo, and I proposed, priced, and closed the engagement myself. Through Digito, my studio, I build the tools I need when one does not exist or is not worth paying for. I am aiming this at fintech and financial-services teams, a space I already operate in on my own account through real estate investment ventures and my own investing tools. The projects below are the proof.
 
