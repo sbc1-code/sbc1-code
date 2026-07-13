@@ -2,7 +2,7 @@
 
 **Marketing Operations & Analytics · GTM Engineering | Building the systems behind growth | GA4 · Technical SEO · AI Automation | Bilingual EN/ES**
 
-My focus now is GTM engineering. I build the go-to-market systems companies grow on and run them end to end, from sourcing and pipeline to automation and the reporting that shows what is working. My background is six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites and 250K+ annual sessions at 92% organic.
+These days I'm doing GTM engineering: building the go-to-market systems companies grow on and running them end to end, from sourcing and pipeline to automation and the reporting that shows what is working. My background is six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites and 250K+ annual sessions at 92% organic.
 
 For Los Bravos, a cross-border industrial real estate developer with no systems in place, I built the full GTM operation solo, and I proposed, priced, and closed the engagement myself. Through Digito, my studio, I build the tools I need when one does not exist or is not worth paying for. On my own account, I have co-founded real estate investment ventures and build my own investing and deal-analysis tools, and I keep building there. The projects below are the proof.
 
