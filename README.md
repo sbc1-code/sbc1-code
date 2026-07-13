@@ -2,9 +2,7 @@
 
 **Marketing Operations & Analytics · GTM Engineering | Building the systems behind growth | GA4 · Technical SEO · AI Automation | Bilingual EN/ES**
 
-My background is in content and digital marketing, and the part that stuck is the machinery underneath it: the tracking, data, reporting, and automation that turn messy growth work into something measurable and repeatable. Now I'm focusing on GTM engineering, because it loops all of it together: the technology, the strategy, and the scale that make businesses grow. I have spent six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites and 250K+ annual sessions at 92% organic.
-
-For Los Bravos, a cross-border industrial real estate developer with no systems in place, I built the full GTM operation solo, and I proposed, priced, and closed the engagement myself. Through Digito, my studio, I build the tools I need when one does not exist or is not worth paying for. On my own account, I have co-founded real estate investment ventures and build my own investing and deal-analysis tools, and I keep building there. The projects below are the proof.
+My background is in content and digital marketing. The part that stuck is the machinery underneath: tracking, data, reporting, automation. Now I'm focusing on GTM engineering, because it loops it all together: the technology, strategy, and scale that make businesses grow. Six years owning analytics and web operations at a B2B hardware manufacturer (three brand sites, 250K+ annual sessions, 92% organic). For Los Bravos, a cross-border real estate developer, I built the full GTM operation solo and proposed, priced, and closed the engagement myself. Through Digito, my studio, I ship my own tools, including investing and deal-analysis tools. The projects below are the proof.
 
 Open to remote go-to-market, growth, and marketing operations roles (IC / Senior IC).
 
