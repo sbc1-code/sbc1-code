@@ -1,10 +1,10 @@
 # Sebastian Becerra
 
-**Marketing Operations & Analytics · GTM Engineering | Building the systems behind growth | GA4 · Web Operations · AI Automation | Bilingual EN/ES**
+**Digital Analytics & Operations | Measurement · Automation · Web & GTM Systems | Bilingual EN/ES**
 
 My background is in content and digital marketing. The part that stuck is the machinery underneath: tracking, data, reporting, automation. Now I'm focusing on GTM engineering, because it loops it all together across marketing, sales, and product: the technology, strategy, and scale that make businesses grow. Six years owning analytics and web operations at a B2B hardware manufacturer (three brand sites, 250K+ annual sessions, 92% organic). For Los Bravos, a cross-border real estate developer, I built the full GTM operation solo and proposed, priced, and closed the engagement myself. Through Digito, my studio, I ship my own tools, including investing and deal-analysis tools. The projects below are the proof.
 
-Open to remote go-to-market, growth, and marketing operations roles (IC / Senior IC).
+Open to remote digital analytics, operations, and GTM roles (IC / Senior IC).
 
 [digito.technology](https://digito.technology) | [Portfolio](https://sbc1-code.github.io/portfolio/) | [Resume PDF](./SB_Master_Resume_GTM_Ops_Analytics_2026.pdf) | [LinkedIn](https://linkedin.com/in/sbecerra1)
 
