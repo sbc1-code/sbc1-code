@@ -6,7 +6,7 @@ My background is in content and digital marketing. The part that stuck is the ma
 
 Open to remote digital analytics, web operations, marketing technology, and systems-focused operations roles.
 
-[Portfolio](https://sbc1-code.github.io/portfolio/) | [Resume PDF](https://sbc1-code.github.io/portfolio/SB_Master_Resume_GTM_Ops_Analytics_2026.pdf) | [LinkedIn](https://linkedin.com/in/sbecerra1)
+[Portfolio](https://sbc1-code.github.io/portfolio/) | [LinkedIn](https://linkedin.com/in/sbecerra1)
 
 ---
 
