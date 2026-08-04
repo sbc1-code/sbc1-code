@@ -1,10 +1,10 @@
 # Sebastian Becerra
 
-**Digital Analytics & Operations | Measurement · Automation · Web & GTM Systems | Bilingual EN/ES**
+**Digital Operations & Analytics | Web Systems · Automation · Measurement · GTM Systems | Bilingual EN/ES**
 
-My background is in content and digital marketing. The part that stuck is the machinery underneath: measurement, workflows, reporting, automation, and the systems teams use to operate. I have six years owning analytics and web operations at a B2B hardware manufacturer across three brand sites serving 250K+ annual sessions. For Los Bravos, I built GTM infrastructure and a lead-intelligence system for a cross-border real-estate developer. I use data, code, and AI to turn recurring information problems into practical tools and clearer decisions.
+My background is in content and digital marketing. The part that stuck is the machinery underneath: web systems, requirements, workflows, automation, measurement, and reporting. I have six years owning web and analytics operations at a B2B hardware manufacturer across three brand sites serving 250K+ annual sessions. For Los Bravos, I built GTM infrastructure and a lead-intelligence system for a cross-border real-estate developer. I use data, code, and AI to turn recurring information problems into practical tools and clearer decisions.
 
-Open to remote digital analytics, web operations, marketing technology, and systems-focused operations roles.
+Open to remote digital operations, web operations, digital analytics, marketing technology, and adjacent systems roles.
 
 [Portfolio](https://sbc1-code.github.io/portfolio/) | [LinkedIn](https://linkedin.com/in/sbecerra1)
 
@@ -74,4 +74,4 @@ Python tool that generates configurable, data-driven investor pitch decks. The p
 
 ## Working With
 
-`Digital Analytics` · `Web Operations` · `GA4` · `Google Tag Manager` · `Technical SEO` · `Looker Studio` · `Python` · `SQL` · `DuckDB` · `AI-assisted Workflows` · `REST APIs` · `GitHub Actions` · `WordPress` · `English/Spanish`
+`Web Operations` · `Digital Analytics` · `GA4` · `Google Tag Manager` · `Technical SEO` · `Looker Studio` · `Python` · `SQL` · `DuckDB` · `AI-assisted Workflows` · `REST APIs` · `GitHub Actions` · `WordPress` · `English/Spanish`
