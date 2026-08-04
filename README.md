@@ -2,7 +2,7 @@
 
 **Digital Operations & Analytics | Web Systems · Automation · Measurement · GTM Systems | Bilingual EN/ES**
 
-My background is in content and digital marketing. The part that stuck is the machinery underneath: web systems, requirements, workflows, automation, measurement, and reporting. Across 7+ years of relevant experience, I have worked across digital operations, analytics, web systems, and GTM execution. At SeeScan, I own web and analytics operations across three B2B brand sites serving 250K+ annual sessions. For Los Bravos, I built GTM infrastructure and a lead-intelligence system for a cross-border real-estate developer. I use data, code, and AI to turn recurring information problems into practical tools and clearer decisions.
+My background is in content and digital marketing. The part that stuck is the machinery underneath: web systems, requirements, workflows, automation, measurement, and reporting. Across 7+ years of relevant experience, I have worked where analysis meets execution. At SeeScan, I own digital operations and analytics across three B2B brand sites representing approximately 240K trailing-12-month sessions, including ~19K form-submit events and ~14K document/software downloads. I build the measurement and operating systems that turn those customer signals into priorities, reliable execution, and clearer decisions. For Los Bravos, I built GTM infrastructure and a lead-intelligence system for a cross-border industrial real-estate developer.
 
 Open to remote digital operations, web operations, digital analytics, marketing technology, and adjacent systems roles.
 
