@@ -1,6 +1,6 @@
 # Sebastian Becerra
 
-**Digital Operations & Analytics | Web Operations · Automation · Measurement · GTM | Bilingual EN/ES**
+**Digital Operations & Analytics | Measurement · Automation · Web & GTM Systems | Bilingual EN/ES**
 
 My background is in content and digital marketing. The part that stuck is the machinery underneath: web systems, requirements, workflows, automation, measurement, and reporting. Across 7+ years of relevant experience, I have worked where analysis meets execution. At SeeScan, I own digital operations and analytics across three B2B brand sites representing approximately 240K trailing-12-month sessions. The digital estate supports customer discovery, product evaluation, channel handoff, and post-sale self-service. I built the measurement and operating layer behind that portfolio and coordinate delivery across four major website programs and more than 40 named software-release cycles. For Los Bravos, I built GTM infrastructure and a lead-intelligence system for a cross-border industrial real-estate developer.
 
