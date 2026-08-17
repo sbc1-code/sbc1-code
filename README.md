@@ -18,19 +18,11 @@ Open to remote website and digital-experience ownership, web operations, marketi
 
 Own the operating layer across three B2B properties supporting customer discovery, product evaluation, channel handoff, and post-sale self-service. Built the cross-property measurement and reporting layer and repeatable intake, implementation, QA, reporting, and handoff systems across marketing, product, engineering, sales, support, and DevOps.
 
-### [Los Bravos lead intelligence system](https://sbc1-code.github.io/portfolio/)
+### [BorderPulse](https://borderpulse.com)
 
-Built GTM data and lead-intelligence infrastructure for a cross-border industrial real-estate developer:
+Shipped independent cross-border data product for real-time US-Mexico wait times, including bilingual SEO pages, automated CBP data updates, PWA support, and privacy-first analytics.
 
-- 6,218-record prospect database
-- 1,121-lead qualified target set
-- 59 account-intelligence packets
-- Custom CRM-style dashboard
-- ICP filtering and account-based targeting
-- AI-assisted research workflows
-- Automated GA4 reporting
-
-Delivered 104% of contracted targets on an engagement I proposed, priced, closed, documented, and handed off. Client prospect data remains confidential; a sanitized sample packet is linked from the portfolio.
+[Repo](https://github.com/sbc1-code/borderpulse)
 
 ### [DIGITO marketing and GTM tool bench](https://digito.technology)
 
@@ -45,11 +37,19 @@ Shipped tools that make the commercial workflow visible from demand capture thro
 
 These are shipped proof of practical marketing operations, GTM systems, automation, measurement, and decision support. DIGITO is a project surface, not a claim of an active company or promised growth business.
 
-### [BorderPulse](https://borderpulse.com)
+### [Los Bravos lead intelligence system](https://sbc1-code.github.io/portfolio/)
 
-Shipped independent cross-border data product for real-time US-Mexico wait times, including bilingual SEO pages, automated CBP data updates, PWA support, and privacy-first analytics.
+Built GTM data and lead-intelligence infrastructure for a cross-border industrial real-estate developer:
 
-[Repo](https://github.com/sbc1-code/borderpulse)
+- 6,218-record prospect database
+- 1,121-lead qualified target set
+- 59 account-intelligence packets
+- Custom CRM-style dashboard
+- ICP filtering and account-based targeting
+- AI-assisted research workflows
+- Automated GA4 reporting
+
+Delivered 104% of contracted targets on an engagement I proposed, priced, closed, documented, and handed off. Client prospect data remains confidential; a sanitized sample packet is linked from the portfolio.
 
 ---
 
