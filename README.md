@@ -2,47 +2,85 @@
 
 **Digital Content & Web Operations | Analytics · CMS · Automation · Measurement | Bilingual EN/ES**
 
-I operate and improve commercial websites from requirements through release: responsive front-end work, WordPress delivery, measurement, technical SEO, QA, and the workflows that keep teams shipping.
+I build the operating layer behind digital commercial work: content and CMS systems, requirements, workflows, automation, measurement, reporting, and the handoff between teams. Across 7+ years of relevant experience, I have worked where customer paths meet execution. At SeeScan, I own digital operations and analytics across exactly three B2B brand sites representing approximately 239K trailing-12-month sessions and coordinate more than 40 named software-release cycles. For Los Bravos, I built and delivered GTM infrastructure and lead intelligence for a cross-border industrial real-estate developer.
 
-`7+ years relevant experience` · `3 B2B websites` · `~239K trailing-12-month sessions` · `40+ named release cycles`
+Open to remote website and digital-experience ownership, web operations, marketing operations, implementation, and product-adjacent solutions work.
 
-[Portfolio](https://sbc1-code.github.io/portfolio/) · [LinkedIn](https://linkedin.com/in/sbecerra1) · [Email](mailto:sebastianmbecerra5@gmail.com)
+**How I work:** Discovery · Requirements · CMS · Implementation · QA · Automation · Measurement · Documentation · Handoff
 
-## Selected work
+[Portfolio](https://sbc1-code.github.io/portfolio/) | [LinkedIn](https://linkedin.com/in/sbecerra1)
 
-### SeeScan | Multi-site WordPress delivery
+---
 
-Own day-to-day digital operations across exactly three B2B properties, from intake and responsive implementation through DEV, staging, production promotion, and verified handoff. The work includes WordPress theme and plugin governance, responsive defect fixes, security triage, technical SEO, analytics tagging, and coordination across marketing, product, engineering, sales, support, and DevOps.
+## Commercial systems
 
-**Evidence:** WordPress · WP Engine · HTML / CSS / JavaScript · Responsive QA · GA4 / GTM · Technical SEO · GitLab
+### SeeScan digital estate
 
-### [BorderPulse](https://borderpulse.com) | Responsive cross-border data product
+Own the operating layer across three B2B properties supporting customer discovery, product evaluation, channel handoff, and post-sale self-service. Built the cross-property measurement and reporting layer and repeatable intake, implementation, QA, reporting, and handoff systems across marketing, product, engineering, sales, support, and DevOps.
 
-Built and shipped a mobile-focused product for real-time US-Mexico wait times and exchange-rate context. It includes 44 per-crossing search pages, scheduled data refresh, PWA support, accessibility-minded QA, and privacy-first analytics.
+### [Los Bravos lead intelligence system](https://sbc1-code.github.io/portfolio/)
 
-[Repository](https://github.com/sbc1-code/borderpulse)
+Built GTM data and lead-intelligence infrastructure for a cross-border industrial real-estate developer:
 
-**Stack:** React · Vite · Tailwind · GitHub Actions
+- 6,218-record prospect database
+- 1,121-lead qualified target set
+- 59 account-intelligence packets
+- Custom CRM-style dashboard
+- ICP filtering and account-based targeting
+- AI-assisted research workflows
+- Automated GA4 reporting
 
-### [DIGITO](https://digito.technology) | Commercial workflow tools
+Delivered 104% of contracted targets on an engagement I proposed, priced, closed, documented, and handed off. Client prospect data remains confidential; a sanitized sample packet is linked from the portfolio.
 
-Shipped tools for campaign governance, metadata, qualification, measurement, and decision support using modern JavaScript, React, Tailwind, and automated deployment.
+### [DIGITO marketing and GTM tool bench](https://digito.technology)
 
-[UTM Campaign Builder](https://digito.technology/tools/utm-builder) · [Lead Scoring Builder](https://digito.technology/tools/lead-scoring)
+Shipped tools that make the commercial workflow visible from demand capture through qualification, measurement, and market intelligence:
 
-### Los Bravos | Lead intelligence and reporting
+- [UTM Campaign Builder](https://digito.technology/tools/utm-builder) · campaign naming and tracking taxonomy
+- [SEO Studio](https://digito.technology/tools/seo-studio) · search and social metadata for content owners
+- [Lead Scoring Builder](https://digito.technology/tools/lead-scoring) · weighted qualification models and tier thresholds
+- [Campaign Analyzer](https://sbc1-code.github.io/multivariate-marketing-campaign-analyzer/) · multi-variant campaign comparison
+- [Analytics HQ](https://sbc1-code.github.io/analytics-hq/) · multi-site GA4 reporting and anomaly alerts ([repo](https://github.com/sbc1-code/analytics-hq))
+- [Brand Monitor](https://sbc1-code.github.io/brand-monitor/) · public-source mention monitoring and signal scoring ([repo](https://github.com/sbc1-code/brand-monitor))
 
-Built and handed off a cross-border industrial real-estate operating system: a 6,218-record prospect database, CRM-style dashboard, 1,121-lead target segment, 59 account-intelligence packets, AI-assisted search, and automated reporting. I proposed, priced, and closed the engagement, then delivered 104% of contracted scope. Client data remains confidential; the portfolio includes a sanitized sample.
+These are shipped proof of practical marketing operations, GTM systems, automation, measurement, and decision support. DIGITO is a project surface, not a claim of an active company or promised growth business.
 
-## Additional decision systems
+### [BorderPulse](https://borderpulse.com)
 
-- [Analytics HQ](https://sbc1-code.github.io/analytics-hq/) ([repo](https://github.com/sbc1-code/analytics-hq)): multi-site GA4 reporting and anomaly alerts.
-- [Brand Monitor](https://sbc1-code.github.io/brand-monitor/) ([repo](https://github.com/sbc1-code/brand-monitor)): public-source monitoring and signal scoring.
-- [BRRRR Deal Stress-Tester](https://sbc1-code.github.io/deal-stress-tester/) ([repo](https://github.com/sbc1-code/deal-stress-tester)): JavaScript underwriting and scenario tool built from a real investment reconstruction.
-- [Community Financial Health Index](https://sbc1-code.github.io/financial-health-index/) ([repo](https://github.com/sbc1-code/financial-health-index)): county-level financial-access and economic-distress analysis.
+Shipped independent cross-border data product for real-time US-Mexico wait times, including bilingual SEO pages, automated CBP data updates, PWA support, and privacy-first analytics.
+
+[Repo](https://github.com/sbc1-code/borderpulse)
+
+---
+
+## Additional decision tools
+
+### [BRRRR Deal Stress-Tester](https://sbc1-code.github.io/deal-stress-tester/)
+
+Real-estate deal calculator built from a four-unit investment I co-ran. Models the full BRRRR cycle, stress scenarios, exit timing, and effective hourly return.
+
+[Repo](https://github.com/sbc1-code/deal-stress-tester)
+
+### [Compound Growth Visualizer](https://sbc1-code.github.io/compound-growth-visualizer/)
+
+Interactive compound-growth and dividend-reinvestment simulator with recurring contributions, milestone tracking, and year-by-year projections.
+
+[Repo](https://github.com/sbc1-code/compound-growth-visualizer)
+
+### [Community Financial Health Index](https://sbc1-code.github.io/financial-health-index/)
+
+Combines FDIC, CFPB, Census, and unbanked survey data into county-level financial-access and economic-distress scores across 3,219 US counties.
+
+[Repo](https://github.com/sbc1-code/financial-health-index)
+
+### [Investor Pitch Deck Generator](https://sbc1-code.github.io/investor-pitch-generator/)
+
+Python tool that generates configurable, data-driven investor pitch decks. The public sample uses a fictional residential fund.
+
+[Repo](https://github.com/sbc1-code/investor-pitch-generator)
+
+---
 
 ## Working with
 
-`HTML` · `CSS` · `JavaScript` · `React` · `Vite` · `Tailwind` · `WordPress` · `WP Engine` · `Responsive QA` · `Technical SEO` · `GA4` · `Google Tag Manager` · `GitHub / GitLab` · `CI/CD` · `Python` · `SQL` · `APIs` · `AI-assisted workflows` · `English / Spanish`
-
-Open to remote website and digital-experience ownership, web operations, marketing operations, implementation, and product-adjacent solutions work.
+`Digital Content` · `Web Operations` · `CMS / WordPress` · `Digital Analytics` · `GA4` · `Google Tag Manager` · `Technical SEO` · `Looker Studio` · `Python` · `SQL` · `DuckDB` · `AI-assisted Workflows` · `REST APIs` · `GitHub Actions` · `English / Spanish`
