@@ -2,7 +2,7 @@
 
 **Digital Content & Web Operations | Analytics · CMS · Automation · Measurement | Bilingual EN/ES**
 
-I build and improve the digital operating layer behind commercial work: how customers find an offer, take the next step, and become useful signal for the business. That includes content and CMS systems, web operations, GTM workflows, automation, reporting, and the handoff between teams. Across 7+ years of relevant experience, I have worked where customer paths meet execution. At SeeScan, I own digital operations and analytics across exactly three B2B brand sites representing approximately 239K trailing-12-month sessions and coordinate more than 40 named software-release cycles. For Los Bravos, I built and delivered GTM infrastructure and lead intelligence for a cross-border industrial real-estate developer.
+I improve websites, measurement, and the workflows that keep digital work moving. That includes how people find a page, what they do next, how results are tracked, and how work moves between teams. Across 7+ years of relevant experience, I have worked across content and CMS systems, web operations, automation, reporting, and release delivery. At SeeScan, I own digital operations and analytics across exactly three B2B brand sites representing approximately 239K trailing-12-month sessions and coordinate more than 40 named software-release cycles. For Los Bravos, I built and delivered GTM infrastructure and lead intelligence for a cross-border industrial real-estate developer.
 
 Open to remote website and digital-experience ownership, web operations, marketing operations, implementation, and product-adjacent solutions work.
 
@@ -16,7 +16,7 @@ Open to remote website and digital-experience ownership, web operations, marketi
 
 ### SeeScan digital estate
 
-Own the operating layer across three B2B properties supporting customer discovery, product evaluation, channel handoff, and post-sale self-service. Built the cross-property measurement and reporting layer and repeatable intake, implementation, QA, reporting, and handoff systems across marketing, product, engineering, sales, support, and DevOps.
+Own digital operations across three B2B properties supporting customer discovery, product evaluation, channel handoff, and post-sale self-service. Built the cross-property measurement and reporting layer and repeatable intake, implementation, QA, reporting, and handoff systems across marketing, product, engineering, sales, support, and DevOps.
 
 ### [BorderPulse](https://borderpulse.com)
 
@@ -26,7 +26,7 @@ Shipped independent cross-border data product for real-time US-Mexico wait times
 
 ### [DIGITO](https://digito.technology)
 
-DIGITO is the business-facing platform for free tools, practical insights, and focused project support. The work connects customer paths, measurement, workflows, and decision support so websites and campaigns can be found, evaluated, and improved.
+DIGITO publishes free tools and practical insights and offers focused projects for websites and campaigns. The work covers how a business is found online, what visitors do next, how results are tracked, and how leads and information move between tools.
 
 Selected tools:
 
@@ -37,7 +37,7 @@ Selected tools:
 - [Analytics HQ](https://sbc1-code.github.io/analytics-hq/) · multi-site GA4 reporting and anomaly alerts ([repo](https://github.com/sbc1-code/analytics-hq))
 - [Brand Monitor](https://sbc1-code.github.io/brand-monitor/) · public-source mention monitoring and signal scoring ([repo](https://github.com/sbc1-code/brand-monitor))
 
-These are shipped proof of practical work across customer paths, marketing operations, GTM systems, automation, measurement, and decision support.
+The collection shows practical work across websites, campaigns, automation, measurement, reporting, and lead workflows.
 
 ### [Los Bravos lead intelligence system](https://sbc1-code.github.io/portfolio/)
 
