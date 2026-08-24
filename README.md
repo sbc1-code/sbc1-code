@@ -2,7 +2,7 @@
 
 **Digital Content & Web Operations | Analytics · CMS · Automation · Measurement | Bilingual EN/ES**
 
-I build the operating layer behind digital commercial work: content and CMS systems, requirements, workflows, automation, measurement, reporting, and the handoff between teams. Across 7+ years of relevant experience, I have worked where customer paths meet execution. At SeeScan, I own digital operations and analytics across exactly three B2B brand sites representing approximately 239K trailing-12-month sessions and coordinate more than 40 named software-release cycles. For Los Bravos, I built and delivered GTM infrastructure and lead intelligence for a cross-border industrial real-estate developer.
+I build and improve the digital operating layer behind commercial work: how a business presents itself, reaches customers, and measures and improves what happens next. That includes content and CMS systems, web operations, GTM workflows, automation, reporting, and the handoff between teams. Across 7+ years of relevant experience, I have worked where customer paths meet execution. At SeeScan, I own digital operations and analytics across exactly three B2B brand sites representing approximately 239K trailing-12-month sessions and coordinate more than 40 named software-release cycles. For Los Bravos, I built and delivered GTM infrastructure and lead intelligence for a cross-border industrial real-estate developer.
 
 Open to remote website and digital-experience ownership, web operations, marketing operations, implementation, and product-adjacent solutions work.
 
@@ -24,9 +24,11 @@ Shipped independent cross-border data product for real-time US-Mexico wait times
 
 [Repo](https://github.com/sbc1-code/borderpulse)
 
-### [DIGITO marketing and GTM tool bench](https://digito.technology)
+### [DIGITO](https://digito.technology)
 
-Shipped tools that make the commercial workflow visible from demand capture through qualification, measurement, and market intelligence:
+DIGITO is the business-facing platform for free tools, practical insights, and focused project support. It covers digital presence, go-to-market work, ongoing marketing, measurement, and the systems that connect them.
+
+Selected tools:
 
 - [UTM Campaign Builder](https://digito.technology/tools/utm-builder) · campaign naming and tracking taxonomy
 - [SEO Studio](https://digito.technology/tools/seo-studio) · search and social metadata for content owners
@@ -35,7 +37,7 @@ Shipped tools that make the commercial workflow visible from demand capture thro
 - [Analytics HQ](https://sbc1-code.github.io/analytics-hq/) · multi-site GA4 reporting and anomaly alerts ([repo](https://github.com/sbc1-code/analytics-hq))
 - [Brand Monitor](https://sbc1-code.github.io/brand-monitor/) · public-source mention monitoring and signal scoring ([repo](https://github.com/sbc1-code/brand-monitor))
 
-These are shipped proof of practical marketing operations, GTM systems, automation, measurement, and decision support. DIGITO is a project surface, not a claim of an active company or promised growth business.
+These are shipped proof of practical work across digital presence, marketing operations, GTM systems, automation, measurement, and decision support.
 
 ### [Los Bravos lead intelligence system](https://sbc1-code.github.io/portfolio/)
 
