@@ -26,7 +26,7 @@ Shipped independent cross-border data product for real-time US-Mexico wait times
 
 ### [DIGITO](https://digito.technology)
 
-DIGITO publishes free tools and practical insights and offers focused projects for websites and campaigns. The work covers how a business is found online, what visitors do next, how results are tracked, and how leads and information move between tools.
+DIGITO publishes free tools and source-backed insights and provides tailored work across go-to-market and ongoing digital operations. Projects can span research, websites and campaigns, measurement, reporting, workflows, automation, and small custom tools.
 
 Selected tools:
 
