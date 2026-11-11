@@ -1,28 +1,30 @@
 # Sebastian Becerra
 
-**Digital Content & Web Operations | Analytics · CMS · Automation · Measurement | Bilingual EN/ES**
+**Digital Experience Manager**
 
-I improve websites, measurement, and the workflows that keep digital work moving. That includes how people find a page, what they do next, how results are tracked, and how work moves between teams. Across 7+ years of relevant experience, I have worked across content and CMS systems, web operations, automation, reporting, and release delivery. At SeeScan, I own digital operations and analytics across exactly three B2B brand sites representing approximately 239K trailing-12-month sessions and coordinate more than 40 named software-release cycles. For Los Bravos, I built and delivered GTM infrastructure and lead intelligence for a cross-border industrial real-estate developer.
+I build and run the websites and digital systems that help businesses market, sell and support their products. My work connects content, web development and measurement from the initial business need through delivery and ongoing improvement.
 
-Open to remote website and digital-experience ownership, web operations, marketing operations, implementation, and product-adjacent solutions work.
-
-**How I work:** Discovery · Requirements · CMS · Implementation · QA · Automation · Measurement · Documentation · Handoff
+Open to remote Digital Experience Manager opportunities.
 
 [Portfolio](https://sbc1-code.github.io/portfolio/) | [LinkedIn](https://linkedin.com/in/sbecerra1)
 
 ---
 
-## Commercial systems
+## Selected work
 
 ### SeeScan digital estate
 
-Own digital operations across three B2B properties supporting customer discovery, product evaluation, channel handoff, and post-sale self-service. Built the cross-property measurement and reporting layer and repeatable intake, implementation, QA, reporting, and handoff systems across marketing, product, engineering, sales, support, and DevOps.
+I run three industrial B2B sites that help customers find, evaluate and use technical products. At the web handoff, I own customer-facing delivery and measurement. I built shared intake to track requests and decisions across releases, and automated reporting to make changes in usage and tracking easier to investigate.
+
+[Analytics HQ](https://sbc1-code.github.io/analytics-hq/) shows the reporting approach with synthetic data for a fictional company.
+
+### [Los Bravos lead intelligence system](https://sbc1-code.github.io/portfolio/los-bravos-sample-packet.html)
+
+I proposed, priced and delivered a prospecting system for a cross-border industrial real-estate developer. The January 2026 handoff included a database of 1,121 prospects and 59 company research briefs, supported by a searchable workspace and automated reporting. The linked packet uses fictional company information and synthetic data.
 
 ### [BorderPulse](https://borderpulse.com)
 
-Shipped independent cross-border data product for real-time US-Mexico wait times, including bilingual SEO pages, automated CBP data updates, PWA support, and privacy-first analytics.
-
-[Repo](https://github.com/sbc1-code/borderpulse)
+I built and operate a bilingual product for travelers comparing US–Mexico border crossings. It publishes reported northbound wait times from CBP and keeps the data updated automatically.
 
 ### [DIGITO](https://digito.technology)
 
@@ -34,55 +36,52 @@ Selected tools:
 - [SEO Studio](https://digito.technology/tools/seo-studio) · search and social metadata for content owners
 - [Lead Scoring Builder](https://digito.technology/tools/lead-scoring) · weighted qualification models and tier thresholds
 - [Campaign Analyzer](https://sbc1-code.github.io/multivariate-marketing-campaign-analyzer/) · multi-variant campaign comparison
-- [Analytics HQ](https://sbc1-code.github.io/analytics-hq/) · multi-site GA4 reporting and anomaly alerts ([repo](https://github.com/sbc1-code/analytics-hq))
-- [Brand Monitor](https://sbc1-code.github.io/brand-monitor/) · public-source mention monitoring and signal scoring ([repo](https://github.com/sbc1-code/brand-monitor))
-
-The collection shows practical work across websites, campaigns, automation, measurement, reporting, and lead workflows.
-
-### [Los Bravos lead intelligence system](https://sbc1-code.github.io/portfolio/)
-
-Built GTM data and lead-intelligence infrastructure for a cross-border industrial real-estate developer:
-
-- 6,218-record prospect database
-- 1,121-lead qualified target set
-- 59 account-intelligence packets
-- Custom CRM-style dashboard
-- ICP filtering and account-based targeting
-- AI-assisted research workflows
-- Automated GA4 reporting
-
-Delivered 104% of contracted targets on an engagement I proposed, priced, closed, documented, and handed off. Client prospect data remains confidential; a sanitized sample packet is linked from the portfolio.
+- [Brand Monitor](https://sbc1-code.github.io/brand-monitor/) · sample report with fictional brands and demonstration data
 
 ---
 
 ## Additional decision tools
 
+### [Contact center AI cost calculator](https://sbc1-code.github.io/portfolio/contact-center-ai-cost-calculator/)
+
+Compare handoffs, repeat contacts and program costs before committing to an AI rollout. Independent work sample with fictional starting values.
+
+### [AI agent release review](https://sbc1-code.github.io/portfolio/agent-release-review/)
+
+Inspect simulated responses, release blockers and a decision memo. Independent work sample using preset fictional scenarios.
+
 ### [BRRRR Deal Stress-Tester](https://sbc1-code.github.io/deal-stress-tester/)
 
 Real-estate deal calculator built from a four-unit investment I co-ran. Models the full BRRRR cycle, stress scenarios, exit timing, and effective hourly return.
-
-[Repo](https://github.com/sbc1-code/deal-stress-tester)
 
 ### [Compound Growth Visualizer](https://sbc1-code.github.io/compound-growth-visualizer/)
 
 Interactive compound-growth and dividend-reinvestment simulator with recurring contributions, milestone tracking, and year-by-year projections.
 
-[Repo](https://github.com/sbc1-code/compound-growth-visualizer)
-
 ### [Community Financial Health Index](https://sbc1-code.github.io/financial-health-index/)
 
-Combines FDIC, CFPB, Census, and unbanked survey data into county-level financial-access and economic-distress scores across 3,219 US counties.
-
-[Repo](https://github.com/sbc1-code/financial-health-index)
+Combines FDIC, CFPB, Census, and unbanked survey data into county-level financial-access and economic-distress scores for county-level comparison.
 
 ### [Investor Pitch Deck Generator](https://sbc1-code.github.io/investor-pitch-generator/)
 
 Python tool that generates configurable, data-driven investor pitch decks. The public sample uses a fictional residential fund.
 
-[Repo](https://github.com/sbc1-code/investor-pitch-generator)
-
 ---
+
+## Technical foundation
+
+My technical learning goes back to at least 2016. I have applied it in professional web operations since 2019. Recent AI-assisted work builds on that foundation.
+
+- **2016–2018. Business and web foundations.** BBA in Marketing at UTEP, Codecademy study, HubSpot Inbound training, and freeCodeCamp Responsive Web Design. Microsoft Software Development Fundamentals and CIW Site Development Associate followed in 2018.
+- **2018–2019. Software development and IT.** Software Development coursework at WGU and an IT internship at Basemate. Full-stack training at LEARN Academy in 2019 covered JavaScript, React, Rails, PostgreSQL and Git. The training included 480+ hours. Historical credentials include CompTIA A+ and Project+.
+- **2019–2023. Professional application and continuing study.** Web operations at SeeScan since November 2019. Continuing study included WordPress, technical and international SEO, UX content strategy, and introductory DataCamp courses in data science and machine learning.
+- **2024–2025. UX and analytics.** Product-design study through Uxcel, CS50 study, and the Google Data Analytics Professional Certificate, completed in April 2025.
+- **2026. Data, integrations and applied AI.** Further coursework in relational databases and APIs, alongside AI-assisted SQL projects, reporting systems, research tools and independent web products.
+
+Early work included collaborative React classroom projects in 2019.
 
 ## Working with
 
 `Digital Content` · `Web Operations` · `CMS / WordPress` · `Digital Analytics` · `GA4` · `Google Tag Manager` · `Technical SEO` · `Looker Studio` · `Python` · `SQL` · `DuckDB` · `AI-assisted Workflows` · `REST APIs` · `GitHub Actions` · `English / Spanish`
+
+SQL coursework and AI-assisted project work include analytical queries in VerdeAzul using joins, aggregations, CTEs and window functions.
