@@ -1,6 +1,6 @@
 # Sebastian Becerra
 
-**Digital Experience Manager**
+**Digital Experience | Websites, measurement and digital systems**
 
 I build and run the websites and digital systems that help businesses market, sell and support their products. My work connects content, web development and measurement from the initial business need through delivery and ongoing improvement.
 
